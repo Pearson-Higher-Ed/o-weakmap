@@ -1,0 +1,8 @@
+{
+    "description": "WeakMap ponyfill",
+    "origamiType": "module",
+    "origamiVersion": 1,
+    "support": "https://github.com/Pearson-Higher-Ed/o-weakmap/issues",
+    "supportStatus": "active",
+    "demos": []
+}

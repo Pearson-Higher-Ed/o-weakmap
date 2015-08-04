@@ -1,0 +1,12 @@
+{
+  "name": "o-weakmap",
+  "dependencies": {},
+  "main": [
+    "main.js"
+  ],
+  "ignore": [
+    "examples",
+    "test",
+    ".gitignore"
+  ]
+}
