@@ -2,6 +2,8 @@
 
 [WeakMap](http://www.ecma-international.org/ecma-262/6.0/#sec-weakmap-objects) ponyfill.
 
+**This component is deprecated**. Component bundles that are built using the latest version of [origami-build-tools](https://github.com/Financial-Times/origami-build-tools) include the Babel [runtime](https://babeljs.io/docs/usage/runtime/), which polyfills ES2015 built-ins, such as `Promise`, `Map`, `Set`, and `WeakMap`.
+
 ## Usage
 
 ```js
